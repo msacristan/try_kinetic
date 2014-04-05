@@ -24,4 +24,4 @@ $(function(){
 var myview = new View({model : mymodel, el : $("#tableHolder")});
 myview.render();
 
-});git remote add origin https://github.com/msacristan/try_kinetic.git
+});
